@@ -1,37 +1,45 @@
 # Hi, I'm Morandi 👋
 
+Soft hues, deep thoughts.
+
 🎓 Data Science Undergraduate  
-💻 Learning Java, Python, Hadoop and Big Data  
+💻 Python | Java | Hadoop | Big Data  
+📍 Henan Institute of Technology  
 
 ---
 
-## 🔧 Skills
+## 🌱 About Me
 
-Python  
-Java  
-Hadoop  
-SQL  
-Data Analysis  
+- Major: **Data Science & Big Data Technology**
+- Currently learning **Python Data Analysis, Hadoop, Computer Networks**
+- Interested in **Big Data Platforms and AI**
 
 ---
 
-## 📚 Currently Learning
+## 🛠 Skills
 
-Big Data Platform Design  
-Computer Networks  
-NoSQL Databases  
-Data Analysis with Python  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 📂 Projects
 
 - Python Data Science
 - Java Network Programming
 - Big Data Platform Design
+- Data Analysis Practice
 
 ---
 
-## 🎯 Goal
+## 📊 GitHub Stats
 
-Build a clean and growing GitHub portfolio.
+![Morandi GitHub stats](https://github-readme-stats.vercel.app/api?username=Morandi666&show_icons=true&theme=tokyonight)
+
+---
+
+## 💡 Goal
+
+Build a clean and growing GitHub portfolio while learning new technologies.
