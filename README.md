@@ -36,7 +36,7 @@ Soft hues, deep thoughts.
 
 ## 📊 GitHub Stats
 
-![Morandi GitHub stats](https://github-readme-stats.vercel.app/api?username=Morandi666&show_icons=true&theme=tokyonight)
+![Morandi GitHub stats](https://github-readme-stats.vercel.app/api?username=Morandi-Chan&show_icons=true&theme=tokyonight)
 
 ---
 
