@@ -62,3 +62,10 @@ Build a clean and growing GitHub portfolio while learning new technologies.
 ## 👁 Visitor Counter
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Morandi-Chan&color=blue)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Morandi-Chan/Morandi-Chan/blob/output/github-contribution-grid-snake.svg)
+
